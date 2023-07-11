@@ -5,4 +5,8 @@ Basic languages that are used in the programming world include:
   -JAVASCRIPT
   -PYTHON
   -C#
+Some other coding frame works may include:
+  -REACT
+  -DJANGO
+  -MONGO
   
